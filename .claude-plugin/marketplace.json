@@ -1,0 +1,25 @@
+{
+  "name": "nemous",
+  "description": "Nemous plugin marketplace — plugins by Nemous for Claude Code",
+  "owner": {
+    "name": "Nemous",
+    "email": "reach.zineddine@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "f67",
+      "source": {
+        "source": "github",
+        "repo": "nemous-x/F67"
+      },
+      "description": "F67 — AI Development Operating System: Domain Driven Memory, 12 specialized pipeline agents, 13 /f67-* lifecycle commands, and reusable workflow artifacts.",
+      "author": { "name": "Nemous" },
+      "homepage": "https://github.com/nemous-x/F67",
+      "repository": "https://github.com/nemous-x/F67",
+      "license": "MIT",
+      "category": "development",
+      "keywords": ["ai-development", "domain-driven-memory", "orchestration", "workflow", "agents"],
+      "tags": ["memory", "sdlc", "orchestrator", "ddd"]
+    }
+  ]
+}
