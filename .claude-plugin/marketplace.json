@@ -20,6 +20,21 @@
       "category": "development",
       "keywords": ["ai-development", "domain-driven-memory", "orchestration", "workflow", "agents"],
       "tags": ["memory", "sdlc", "orchestrator", "ddd"]
+    },
+    {
+      "name": "nemohire",
+      "source": {
+        "source": "github",
+        "repo": "nemous-x/nemohire"
+      },
+      "description": "NemoHire — AI-powered hiring copilot: builds a persistent professional identity, sources and ranks jobs, prepares tailored application materials, applies via sequential browser automation with a mandatory submission summary, tracks every application, and syncs hiring emails.",
+      "author": { "name": "Nemous" },
+      "homepage": "https://github.com/nemous-x/nemohire",
+      "repository": "https://github.com/nemous-x/nemohire",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["hiring", "jobs", "career", "resume", "cover-letter", "job-search", "recruiting", "browser-automation"],
+      "tags": ["job-search", "identity", "applications", "tracker", "email-sync"]
     }
   ]
 }
