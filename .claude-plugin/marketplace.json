@@ -8,6 +8,7 @@
   "plugins": [
     {
       "name": "f67",
+      "version": "0.8.0",
       "source": {
         "source": "github",
         "repo": "nemous-x/F67"
@@ -23,6 +24,7 @@
     },
     {
       "name": "nemohire",
+      "version": "0.7.0",
       "source": {
         "source": "github",
         "repo": "nemous-x/nemohire"
