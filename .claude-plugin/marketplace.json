@@ -27,7 +27,7 @@
         "source": "github",
         "repo": "nemous-x/nemohire"
       },
-      "description": "NemoHire — AI-powered hiring copilot: builds a persistent professional identity, sources and ranks jobs, prepares tailored application materials, applies via sequential browser automation with a mandatory submission summary, tracks every application, and syncs hiring emails.",
+      "description": "NemoHire — AI-powered hiring copilot: builds a persistent professional identity, sources jobs (or takes any jobs file), and applies to them via sequential browser automation — in your own voice, submitted automatically once every question is answered — tracks every application, and syncs hiring emails.",
       "author": { "name": "Nemous" },
       "homepage": "https://github.com/nemous-x/nemohire",
       "repository": "https://github.com/nemous-x/nemohire",
