@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "f67",
-      "version": "0.8.0",
+      "version": "1.0.0",
       "source": {
         "source": "github",
         "repo": "nemous-x/F67"
@@ -19,12 +19,18 @@
       "repository": "https://github.com/nemous-x/F67",
       "license": "MIT",
       "category": "development",
-      "keywords": ["ai-development", "domain-driven-memory", "orchestration", "workflow", "agents"],
+      "keywords": [
+        "ai-development",
+        "domain-driven-memory",
+        "orchestration",
+        "workflow",
+        "agents"
+      ],
       "tags": ["memory", "sdlc", "orchestrator", "ddd"]
     },
     {
       "name": "nemohire",
-      "version": "0.9.0",
+      "version": "1.0.0",
       "source": {
         "source": "github",
         "repo": "nemous-x/nemohire"
@@ -35,8 +41,23 @@
       "repository": "https://github.com/nemous-x/nemohire",
       "license": "MIT",
       "category": "productivity",
-      "keywords": ["hiring", "jobs", "career", "resume", "cover-letter", "job-search", "recruiting", "browser-automation"],
-      "tags": ["job-search", "identity", "applications", "tracker", "email-sync"]
+      "keywords": [
+        "hiring",
+        "jobs",
+        "career",
+        "resume",
+        "cover-letter",
+        "job-search",
+        "recruiting",
+        "browser-automation"
+      ],
+      "tags": [
+        "job-search",
+        "identity",
+        "applications",
+        "tracker",
+        "email-sync"
+      ]
     }
   ]
 }
